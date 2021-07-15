@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Tiuringo masina.cpp
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Tiuringo masina\Tiuringo masina.cpp(51,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Tiuringo masina\Tiuringo masina.cpp(108,45): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Tiuringo masina\Tiuringo masina.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Tiuringo masina\Tiuringo masina.cpp(121,20): warning C4018: '>=': signed/unsigned mismatch
+  Tiuringo masina.vcxproj -> C:\Users\vygan\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Debug\Tiuringo masina.exe

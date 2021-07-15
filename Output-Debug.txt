@@ -1,0 +1,16 @@
+﻿'Tiuringo masina.exe' (Win32): Loaded 'C:\Users\saulius\OneDrive - Vilniaus Gedimino technikos universitetas\tiuringo projektas\Tiuringo masina\Debug\Tiuringo masina.exe'. Symbols loaded.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Tiuringo masina.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+The thread 0x2c68 has exited with code -1073741510 (0xc000013a).
+The thread 0x21f8 has exited with code -1073741510 (0xc000013a).
+The thread 0x2ba4 has exited with code -1073741510 (0xc000013a).
+The thread 0xc50 has exited with code -1073741510 (0xc000013a).
+The program '[7660] Tiuringo masina.exe' has exited with code -1073741510 (0xc000013a).
